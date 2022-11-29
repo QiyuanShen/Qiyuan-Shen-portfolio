@@ -1,6 +1,6 @@
 # Heart Disease Prediction model
 
-This is another data science project focus on deciding which model suits heart diseases pre-dection most. The folder contains 4 files:
+This is another data science project focus on deciding which model suits heart diseases pre-dection most. The folder contains 3 files: 1 code folder, 1 report, 1 presentation slide
 
 # abstract
 
